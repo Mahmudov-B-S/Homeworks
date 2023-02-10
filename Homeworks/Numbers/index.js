@@ -2,7 +2,16 @@
 
 //  1
 
+// let n = 7;
+// let binary = n.toString(2);
+// console.log(binary);
+// let one = 0;
+// let zero = 0;
 
+// for (let i = 0; i < binary.length; i++) {
+//   binary[i] == 1 ? one++ : zero++;
+// }
+// console.log(`${one} ta bir, ${zero} ta nol qatnashgan`);
 
 
 
@@ -28,10 +37,9 @@
 // console.log(7.9); //  => 8
 // console.log(-7.2); //  => -7
 
-// parseInt - 
-// let a = "2"
-// let b = console.log(parseInt(a));
-// console.log(typeof(b));
+// parseInt - binary sonni oddiy songa otkazib beradi
+// let a = 111
+// console.log(parseInt(a, 2));
 
 
 //   4. 
