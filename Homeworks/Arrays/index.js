@@ -9,8 +9,10 @@
 //  2
 // let ar = ['webbrain', 'academy']
 
-// let res = ar.forEach((v, i)=> {
+// let res = ar.forEach((v)=> {
 //     console.log(v);
-//     return 1; 
+//     return ; 
+
+
 // })
 // console.log(res);
