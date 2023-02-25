@@ -1,12 +1,12 @@
 
 
-//  1 
+// //  1 
 // let ar = [1, 2, 3, 4, 5]
 // let res = ar.reduce((v, i) => v += i, 0)
 // console.log(res);
 
 
-//  2
+// //  2
 // let ar = ['webbrain', 'academy']
 
 // let res = ar.forEach((v)=> {
@@ -16,12 +16,12 @@
 // console.log(res);
 
 
-//  3
+// //  3
 // ar1 = [ 1, {name: "wba"}]
 // ar2 = [ 1, {name: "wba"}]
 // console.log(ar1.toString() === ar2.toString());
 
-//  6
+// //  6
 
 // let users = [
 //     {id:1, year: 1998, engine: 1, name: "Tico"},
@@ -33,23 +33,23 @@
 //     {id:7, year: 2018, engine: 2.4, name: "Tracer"}
 // ]
 
-//1 let res = users.filter((v)=> v.year < 2000)
+// let res = users.filter((v)=> v.year < 2000)
 // console.log(res);
 
 
-//2 let res = users.filter((v)=> v.year > 2010)
+// let res = users.filter((v)=> v.year > 2010)
 // console.log(res);
 
 
-//3 let res = users.sort((a, b) => a.engine - b.engine )
+// let res = users.sort((a, b) => a.engine - b.engine )
 // console.log(res);
 
 
-//4 let res = users.sort((a, b) => a.year - b.year )
+// let res = users.sort((a, b) => a.year - b.year )
 // console.log(res);
 
 
-//5 let res = users.sort((a, b) => a.name.localeCompare(b.name) )
+// let res = users.sort((a, b) => a.name.localeCompare(b.name) )
 // console.log(res);
 
 
